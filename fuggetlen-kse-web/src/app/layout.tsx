@@ -29,7 +29,8 @@ export default function RootLayout({
             <a href="/" className="hover:underline">Főoldal</a>
             <a href="/about" className="hover:underline">Rólunk</a>
             <a href="/gallery" className="hover:underline">Galéria</a>
-            <a href="/contact" className="hover:underline">Kapcsolat</a>
+            <a href="/brainrot" className="hover:underline">Agyzsibbasztás</a>
+            <a href="/kapcsolat" className="hover:underline">Kapcsolat</a>
           </nav>
         </header>
         <main className="p-4">{children}</main>
